@@ -20,5 +20,3 @@ The repository currently contains:
 
 * `test_math.py`: A simple Python file using the `unittest` framework with guaranteed passing tests.
 * *(Any other files, e.g., a license or CI configuration, would be listed here.)*
-
-Test 
